@@ -17,7 +17,7 @@ This project is a particle simulation built using [OpenFrameworks](https://openf
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/particle-simulation.git
+   git clone https://github.com/rseume/three-body-problem
    ```
 2. **Open the Project**:
    - Navigate to the project directory and open the **`particle-simulation`** folder using your IDE.
